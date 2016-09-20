@@ -1,0 +1,5 @@
+ElPaso	Midland
+Odessa	SanAngelo
+Abiline	Waco
+Houston	Beaumont
+Dallas	Texarkana
